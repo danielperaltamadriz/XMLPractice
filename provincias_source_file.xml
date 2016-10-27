@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="latin1"?>
+
+<table_data name="pomadistritos">
+	<row>
+		<field name="provincia">1</field>
+		<field name="descripcion">SAN JOSE</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="descripcion">ALAJUELA</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="descripcion">CARTAGO</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="descripcion">HEREDIA</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="descripcion">GUANACASTE</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="descripcion">PUNTARENAS</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="descripcion">LIMON</field>
+	</row>
+</table_data>

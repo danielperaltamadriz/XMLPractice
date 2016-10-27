@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Count content="San José">
+  <Hombres>173</Hombres>
+  <Mujeres>143</Mujeres>
+</Count>
+<Count content="Alajuela">
+  <Hombres>23</Hombres>
+  <Mujeres>22</Mujeres>
+</Count>
+<Count content="Cartago">
+  <Hombres>19</Hombres>
+  <Mujeres>19</Mujeres>
+</Count>
+<Count content="Heredia">
+  <Hombres>31</Hombres>
+  <Mujeres>32</Mujeres>
+</Count>
+<Count content="Guanacaste">
+  <Hombres>3</Hombres>
+  <Mujeres>2</Mujeres>
+</Count>
+<Count content="Puntarenas">
+  <Hombres>8</Hombres>
+  <Mujeres>12</Mujeres>
+</Count>
+<Count content="Limón">
+  <Hombres>8</Hombres>
+  <Mujeres>1</Mujeres>
+</Count>

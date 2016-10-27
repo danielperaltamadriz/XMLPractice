@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="latin1"?>
+
+<table_data name="pomadistritos">
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">101</field>
+		<field name="descripcion">SAN JOSE</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">102</field>
+		<field name="descripcion">ESCAZU</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">103</field>
+		<field name="descripcion">DESAMPARADOS</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">104</field>
+		<field name="descripcion">PURISCAL</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">105</field>
+		<field name="descripcion">TARRAZU</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">106</field>
+		<field name="descripcion">ASERRI</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">107</field>
+		<field name="descripcion">MORA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">108</field>
+		<field name="descripcion">GOICOECHEA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">109</field>
+		<field name="descripcion">SANTA ANA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">110</field>
+		<field name="descripcion">ALAJUELITA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">111</field>
+		<field name="descripcion">VAZQUEZ DE CORONADO</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">112</field>
+		<field name="descripcion">ACOSTA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">113</field>
+		<field name="descripcion">TIBAS</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">114</field>
+		<field name="descripcion">MORAVIA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">115</field>
+		<field name="descripcion">MONTES DE OCA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">116</field>
+		<field name="descripcion">TURRUBARES</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">117</field>
+		<field name="descripcion">DOTA</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">118</field>
+		<field name="descripcion">CURRIDABAT</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">119</field>
+		<field name="descripcion">PEREZ ZELEDON</field>
+	</row>
+	<row>
+		<field name="provincia">1</field>
+		<field name="canton">120</field>
+		<field name="descripcion">LEON CORTES CASTRO</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">201</field>
+		<field name="descripcion">ALAJUELA</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">202</field>
+		<field name="descripcion">SAN RAMON</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">203</field>
+		<field name="descripcion">GRECIA</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">204</field>
+		<field name="descripcion">SAN MATEO</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">205</field>
+		<field name="descripcion">ATENAS</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">206</field>
+		<field name="descripcion">NARANJO</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">207</field>
+		<field name="descripcion">PALMARES</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">208</field>
+		<field name="descripcion">POAS</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">209</field>
+		<field name="descripcion">OROTINA</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">210</field>
+		<field name="descripcion">SAN CARLOS</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">211</field>
+		<field name="descripcion">ZARCERO</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">212</field>
+		<field name="descripcion">VALVERDE VEGA</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">213</field>
+		<field name="descripcion">UPALA</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">214</field>
+		<field name="descripcion">LOS CHILES</field>
+	</row>
+	<row>
+		<field name="provincia">2</field>
+		<field name="canton">215</field>
+		<field name="descripcion">GUATUSO</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">301</field>
+		<field name="descripcion">CARTAGO</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">302</field>
+		<field name="descripcion">PARAISO</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">303</field>
+		<field name="descripcion">LA UNION</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">304</field>
+		<field name="descripcion">JIMENEZ</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">305</field>
+		<field name="descripcion">TURRIALBA</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">306</field>
+		<field name="descripcion">ALVARADO</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">307</field>
+		<field name="descripcion">OREAMUNO</field>
+	</row>
+	<row>
+		<field name="provincia">3</field>
+		<field name="canton">308</field>
+		<field name="descripcion">EL GUARCO</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">401</field>
+		<field name="descripcion">HEREDIA</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">402</field>
+		<field name="descripcion">BARVA</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">403</field>
+		<field name="descripcion">SANTO DOMINGO</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">404</field>
+		<field name="descripcion">SANTA BARBARA</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">405</field>
+		<field name="descripcion">SAN RAFAEL</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">406</field>
+		<field name="descripcion">SAN ISIDRO</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">407</field>
+		<field name="descripcion">BELEN</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">408</field>
+		<field name="descripcion">FLORES</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">409</field>
+		<field name="descripcion">SAN PABLO</field>
+	</row>
+	<row>
+		<field name="provincia">4</field>
+		<field name="canton">410</field>
+		<field name="descripcion">SARAPIQUI</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">501</field>
+		<field name="descripcion">LIBERIA</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">502</field>
+		<field name="descripcion">NICOYA</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">503</field>
+		<field name="descripcion">SANTA CRUZ</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">504</field>
+		<field name="descripcion">BAGACES</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">505</field>
+		<field name="descripcion">CARRILLO</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">506</field>
+		<field name="descripcion">CAÑAS</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">507</field>
+		<field name="descripcion">ABANGARES</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">508</field>
+		<field name="descripcion">TILARAN</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">509</field>
+		<field name="descripcion">NANDAYURE</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">510</field>
+		<field name="descripcion">LA CRUZ</field>
+	</row>
+	<row>
+		<field name="provincia">5</field>
+		<field name="canton">511</field>
+		<field name="descripcion">HOJANCHA</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">601</field>
+		<field name="descripcion">PUNTARENAS</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">602</field>
+		<field name="descripcion">ESPARZA</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">603</field>
+		<field name="descripcion">BUENOS AIRES</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">604</field>
+		<field name="descripcion">MONTES DE ORO</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">605</field>
+		<field name="descripcion">OSA</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">606</field>
+		<field name="descripcion">AGUIRRE</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">607</field>
+		<field name="descripcion">GOLFITO</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">608</field>
+		<field name="descripcion">COTO BRUS</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">609</field>
+		<field name="descripcion">PARRITA</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">610</field>
+		<field name="descripcion">CORREDORES</field>
+	</row>
+	<row>
+		<field name="provincia">6</field>
+		<field name="canton">611</field>
+		<field name="descripcion">GARABITO</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">701</field>
+		<field name="descripcion">LIMON</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">702</field>
+		<field name="descripcion">POCOCI</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">703</field>
+		<field name="descripcion">SIQUIRRES</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">704</field>
+		<field name="descripcion">TALAMANCA</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">705</field>
+		<field name="descripcion">MATINA</field>
+	</row>
+	<row>
+		<field name="provincia">7</field>
+		<field name="canton">706</field>
+		<field name="descripcion">GUACIMO</field>
+	</row>
+</table_data>
